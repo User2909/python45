@@ -8,3 +8,4 @@ sr = sr.replace('Styopa','Yan')
 print( '\n')
 print( sr)
 pass
+pass
