@@ -7,3 +7,4 @@ sr = sr.replace('Uncle','Yan')
 sr = sr.replace('Styopa','Yan')
 print( '\n')
 print( sr)
+pass
