@@ -1,1 +1,2 @@
 print('somthing new')
+print()
